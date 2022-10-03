@@ -1,1 +1,4 @@
-
+error.log
+$RECYCLE.BIN/
+.gitignore
+System Volume Information/
